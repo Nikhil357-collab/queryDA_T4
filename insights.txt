@@ -1,0 +1,27 @@
+SQL JOINS PROJECT - 3 KEY BUSINESS INSIGHTS
+===========================================
+
+INSIGHT 1: Beverages Dominate Revenue (2x Condiments)
+-------------------------------------------------
+• Beverages: 2 products sold = $55,000 revenue  
+• Condiments: 1 product sold = $28,500 revenue
+• Chang (Beverages) sold 1 unit @ $19 → High margin product
+ACTION: Double down on premium beverages - stock more Chang!
+
+INSIGHT 2: Aniseed Syrup - Urgent Reorder Needed
+----------------------------------------------
+• Condiments category leader: 3 units sold
+• Stock: 10 units | Reorder Level: 25 | On Order: 70 units  
+• Already below reorder level despite recent sales
+ACTION: Expedite 70 units on order - prevent stockout!
+
+INSIGHT 3: Chang - Inventory Risk (Low Stock, High Value)
+------------------------------------------------------
+• Beverages star performer: 1 unit sold = Major revenue driver
+• Stock: 17 units | Reorder Level: 25 | On Order: 40 units
+• Critical: Only 17 units left of high-margin $19 product
+ACTION: Prioritize Chang reorder - protect $55K beverage revenue
+
+PRIORITY ACTIONS:
+1. Expedite Aniseed Syrup delivery (10/25 stock)
+2. Push Chang production (17/25 stock) 
