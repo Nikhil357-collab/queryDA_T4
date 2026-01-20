@@ -1,0 +1,3 @@
+ProductName,CategoryName,UnitsInStock,ReorderLevel,UnitsOnOrder,total_sold
+"Aniseed Syrup",Condiments,13,25,70,3
+Chang,Beverages,17,25,40,1
